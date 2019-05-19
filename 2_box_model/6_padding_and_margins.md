@@ -27,7 +27,7 @@
 - Another approach is to use margins everywhere except when you need padding.  Probably need padding when:
   - Want to change height of width of a border
   - Want to adjust how much background is visible around an element
-  - You want to alter the amount of clickable area
+  - You want to alter the amount of clickable arean
   - You want to avoid margin collapse
   - You want some horizontal spacing to the left or right of an `inline` element
   - Use padding for separation between left and rigth sides of a container and its content, use margins for vertical gap.
